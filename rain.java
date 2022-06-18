@@ -18,7 +18,7 @@ public class rain {
             System.out.println(rain);
        }
        else{
-                System.out.println("Weather is good lets have sex");
+                System.out.println("Weather is good lets bunk college anyways");
        }
 
          }
